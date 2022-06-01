@@ -1,0 +1,2 @@
+import smbf
+smbf.joker()
