@@ -18,4 +18,3 @@ python3 smbf.py
 ```
 
 # **Mr.Zok3r**
-saya
