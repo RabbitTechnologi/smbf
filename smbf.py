@@ -1,2 +1,2 @@
 import smbf
-smbf.joker()
+smbf.joker()._login()
