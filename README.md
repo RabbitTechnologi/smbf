@@ -4,7 +4,7 @@ Simple mobile bruteforce facebook
 
 **SIMPLE MENU**
 
-![IMG_20220602_044640.jpg](https://user-images.githubusercontent.com/96907156/171507436-043c5383-06f8-49fa-bf8b-fbd69473b5b3.jpg)
+![Screenshot_2022-06-02-16-24-18-93_84d3000e3f4017145260f7618db1d683.jpg](https://user-images.githubusercontent.com/96907156/171606377-7912f779-8ee4-4730-8174-547e7a487a7e.jpg)
 
 **Install**
 ```
