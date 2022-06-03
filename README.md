@@ -1,5 +1,5 @@
 # smbf
-Simple mobile bruteforce facebook
+
 `UPDATE UA - FAST SPEED`
 `LOGIN COOKIES`
 
@@ -10,7 +10,7 @@ Simple mobile bruteforce facebook
 ![Screenshot_2022-06-03-09-14-56-59.jpg](https://user-images.githubusercontent.com/96907156/171780065-c92fc7d2-7a6f-4314-aa74-debe00ba0539.jpg)
 
 
-**Install**
+`Install`
 ```
 git clone https://github.com/MRZOK3R/smbf
 cd smbf
